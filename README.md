@@ -1,22 +1,25 @@
 # Car Price Prediction Using Linear Regression
 ##
 ## Introduction
+##
 This project aims to predict car prices using a linear regression model. The data is preprocessed and then used to train the model, which is evaluated using various metrics.
 
-Requirements
+## Requirements
+##
 To run this notebook, you need the following Python libraries:
 
-pandas
-matplotlib
-seaborn
-scikit-learn
-numpy
-You can install these packages using pip:
+. pandas
+. matplotlib
+. seaborn
+. scikit-learn
+. numpy
 
-bash
-Copy code
+### You can install these packages using pip:
+##
 pip install pandas matplotlib seaborn scikit-learn numpy
-Data
+
+## Data
+
 The dataset used in this notebook is cardetailsv4.csv, which contains various features of cars. Ensure this CSV file is in the same directory as the notebook.
 
 Steps
