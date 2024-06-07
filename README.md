@@ -1,6 +1,6 @@
 # Car Price Prediction Using Linear Regression
 
-Introduction
+## Introduction
 This project aims to predict car prices using a linear regression model. The data is preprocessed and then used to train the model, which is evaluated using various metrics.
 
 Requirements
